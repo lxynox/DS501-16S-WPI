@@ -1,33 +1,24 @@
-title: DS501 - Introduction to Data Science 
-  
-url: https://github.com/lxynox/DS501-BCSX.git
-output: index.html
-
---
-
 # Introduction 
 ***DS501 - WPI - 16Spring*** 
 
 ### Team 
-* Silva, Dennis Steven
-* Branden, Diniz
-* Chuxin, Wei
-* Xuanyu, Li 
+* Silva, Dennis Steven :baby:
+* Branden, Diniz :boy:
+* Chuxin, Wei :girl:
+* Xuanyu, Li :bust_in_silhouette:
 
--- 
-
-### Work Status
+## Work Status
 Completed all 4 Case Studies
 
-### Index
-- [Case 1 - Collecting Data From Twitter](https://github.com/lxynox/DS501-CaseStudy/tree/master/CaseStudy1)
-- [Case 2 - Analyzing Data From MovieLens](https://github.com/lxynox/DS501-CaseStudy/tree/master/CaseStudy2)
-- [Case 3 - Textual Analysis of Movie Reviews](https://github.com/lxynox/DS501-CaseStudy/tree/master/CaseStudy3)
-- [Case 4 - Data Science Shark Tank: Pitch Your Ideas](https://github.com/lxynox/DS501-CaseStudy/tree/master/CaseStudy4)
+## Index
+- [Case 1 - Collecting Data From Twitter](https://github.com/lxynox/DS501-BCSX/tree/master/Case_Study_1)
+- [Case 2 - Analyzing Data From MovieLens](https://github.com/lxynox/DS501-BCSX/tree/master/Case_Study_2)
+- [Case 3 - Textual Analysis of Movie Reviews](https://github.com/lxynox/DS501-BCSX/tree/master/Case_Study_3)
+- [Case 4 - Data Science Shark Tank: Pitch Your Ideas](https://github.com/lxynox/DS501-BCSX/tree/master/Case_Study_4)
 
 --
 
-# Basic Git Tutorial
+## Basic Git Tutorial
 ```
 git clone <url>: clone from remote host and develop locally
 git log --oneline --graph --decorate: briefly show repository's history logs
