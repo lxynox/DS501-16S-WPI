@@ -8,7 +8,9 @@
 * Xuanyu, Li :bust_in_silhouette:
 
 ## Work Status
-Completed all 4 Case Studies
+| DONE | TODO |
+| --- | --- |
+| Completed all 4 Case Studies | Refactoring and reorganizing contents/materials |
 
 ## Index
 - [Case 1 - Collecting Data From Twitter](https://github.com/lxynox/DS501-BCSX/tree/master/Case_Study_1)

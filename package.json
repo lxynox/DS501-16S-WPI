@@ -4,9 +4,9 @@
   "description": "WPI DS501 introduction to Data Science Repository",
   "main": "README.md",
   "scripts": {
-    "build": "cleaver ./README.md",
-    "build:watch": "cleaver --watch ./README.md",
-    "build:debug": "cleaver --debug ./README.md"
+    "build": "cleaver ./index.md",
+    "build:watch": "cleaver --watch ./index.md",
+    "build:debug": "cleaver --debug ./index.md"
   },
   "repository": {
     "type": "git",
