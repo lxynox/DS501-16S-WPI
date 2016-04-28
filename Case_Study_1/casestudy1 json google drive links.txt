@@ -1,0 +1,11 @@
+The following are links to a google drive containing our json files for which
+we did twitter analysis on
+
+Search for 'Pokemon' during the Super Bowl
+pokemon13k6pm-11pm.json
+https://drive.google.com/file/d/0B6RB5E-5Ltm0THl3TUIwMl9aQjA/view?usp=sharing
+
+
+Search for various commercials and teams during the Super Bowl
+Super Bowl Tweets JSON.zip
+https://drive.google.com/file/d/0B6RB5E-5Ltm0bk5sN1pyWXVoMVE/view?usp=sharing

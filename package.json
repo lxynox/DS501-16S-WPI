@@ -1,0 +1,30 @@
+{
+  "name": "ds501-wpi-16s",
+  "version": "1.0.0",
+  "description": "WPI DS501 introduction to Data Science Repository",
+  "main": "README.md",
+  "scripts": {
+    "build": "cleaver ./README.md",
+    "build:watch": "cleaver --watch ./README.md",
+    "build:debug": "cleaver --debug ./README.md"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lxynox/DS501-WBDX.git"
+  },
+  "keywords": [
+    "DS501",
+    "Team collaboration",
+    "Data Science",
+    "Hacking"
+  ],
+  "author": "lxynox",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lxynox/DS501-WBDX/issues"
+  },
+  "homepage": "https://github.com/lxynox/DS501-WBDX#readme",
+  "devDependencies": {
+    "cleaver": "^0.8.2"
+  }
+}
